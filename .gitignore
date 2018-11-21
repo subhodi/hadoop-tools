@@ -2,3 +2,6 @@
 /dist
 /cabal.sandbox.config
 /docker/cache
+
+# Stack uses this directory as scratch space.
+.stack-work/
